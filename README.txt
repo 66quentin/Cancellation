@@ -1,4 +1,4 @@
-Projet réalisé par Guardia Quentin (qguardia66@gmail.com)
+Projet réalisé par Guardia Quentin (quentin.guardia@protonmail.com)
 Étude des normaux, sous-normaux et cancellation.
 
 Obtenir les éxecutables (n1, n2, ... ): 
